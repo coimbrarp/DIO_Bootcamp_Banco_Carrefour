@@ -13,7 +13,7 @@ A entrada contém três valores reais.
 ## Saída
 O resultado deve ser apresentado com uma casa decimal.
 
-## Exemplo
+## Exemplos
 Exemplo de Entrada     | Exemplo de Saída
 ----------- | ----------------
 6.0 4.0 2.0 | Area = 10.0
