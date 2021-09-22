@@ -16,7 +16,7 @@ A entrada contém quatro números de ponto flutuante correspondentes as notas do
 Todas as respostas devem ser apresentadas com uma casa decimal. As mensagens devem ser impressas conforme a descrição do problema. Não esqueça de imprimir o enter após o final 
 de cada linha, caso contrário obterá "Presentation Error".
 
-## Exemplos
+## Exemplo
 
 Exemplos de Entrada   | Exemplos de Saída
 --------- | ------
