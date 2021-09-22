@@ -10,4 +10,3 @@ Códigos dos desafios do Bootcamp Banco Carrefour Data Engineer da Digital Innov
 - Média 3
 - Folha de Pagamento
 - Programa para Validação de Notas
-- 
