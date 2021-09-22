@@ -9,7 +9,7 @@ A entrada contém um valor inteiro **(V<=50)**.
 Para cada posição do vetor, escreva "N[**i**] = **X**", onde **i** é a posição do vetor e **X** é o valor armazenado na posição **i**. O primeiro número do vetor N (N[0]) irá receber o valor de V.
 
 
-## Exemplos
+## Exemplo
         
 Entrada | Saída
 ------- | --------
