@@ -22,7 +22,7 @@ menor do que 1 ou maior do que 2, conforme o exemplo abaixo.
 
 A média deve ser impressa com dois dígitos após o ponto decimal.
 
-## Exemplo
+## Exemplos
 
 Entrada   | Saída
 --------- | ------
