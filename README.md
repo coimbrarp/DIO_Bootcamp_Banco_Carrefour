@@ -2,11 +2,11 @@
 Códigos dos desafios do Bootcamp Banco Carrefour Data Engineer da Digital Innovation One
 
 ## 1 - Soluções Aritméticas em Python
-- Notas da Prova
-- Preenchimento de Vetor I
-- Triângulo
+- 1 - Notas da Prova
+- 2 - Preenchimento de Vetor I
+- 3 - Triângulo
 
 ## 2 - Solucionando Desafios em Python
-- Média 3
-- Folha de Pagamento
-- Programa para Validação de Notas
+- 1 - Média 3
+- 2 - Folha de Pagamento
+- 3 - Programa para Validação de Notas
