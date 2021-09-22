@@ -1,5 +1,6 @@
-# Bootcamp Banco Carrefour Data Engineer - Digital Innovation One
-Códigos de desafio do Bootcamp Banco Carrefour Data Engineer
+# DIO - Bootcamp Banco Carrefour Data Engineer
+Códigos dos desafios do Bootcamp Banco Carrefour Data Engineer da Digital Innovation One
+
 
 ## 1 - Soluções Aritméticas em Python:
 - Notas da Prova
