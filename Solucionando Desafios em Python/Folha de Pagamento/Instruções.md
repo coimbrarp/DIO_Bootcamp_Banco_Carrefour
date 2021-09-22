@@ -10,7 +10,7 @@ Você receberá 2 números inteiros e 1 número com duas casas decimais, represe
 Exiba o número e o salário do colaborador, conforme exemplo abaixo, com um espaço em branco antes e depois da igualdade. No caso do salário, também deve haver um espaço em branco 
 após o $.
 
-## Exemplos
+## Exemplo
 
 Exemplos de Entrada   | Exemplos de Saída
 --------- | ------
