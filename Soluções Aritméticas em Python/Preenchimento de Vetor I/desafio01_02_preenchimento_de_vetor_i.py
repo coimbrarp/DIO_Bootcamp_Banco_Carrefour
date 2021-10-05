@@ -1,7 +1,7 @@
-v = int(input('Insira um valor menor ou igual a 51: '))
+v = int(input('Insira um valor menor ou igual a 50: '))
 
-while v > 51:
-  v = int(input('Insira um valor menor ou igual a 51: '))
+while v > 50:
+  v = int(input('Insira um valor menor ou igual a 50: '))
 
 vetor = [10]
 vetor[0] = v
